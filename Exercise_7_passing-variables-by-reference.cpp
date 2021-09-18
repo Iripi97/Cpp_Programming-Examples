@@ -1,6 +1,6 @@
 // Exercise 7
 // Call by value and call by reference
-//
+// This program exposes the programmer to: cin/cout, functions, passing variables with the reference operator
 // Program by:     Justin Russo
                             		// Allows cin/cout to be used
 #include <iostream>
