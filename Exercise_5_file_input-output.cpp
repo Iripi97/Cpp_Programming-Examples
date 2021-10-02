@@ -1,7 +1,6 @@
-/* Lab 7 Exercise 2
+/* Exercise 5
    Percentages of numbers input from a file
    This program exposes the programmer to: cin/cout, while loops, file input-output
-   Program: Justin Russo
  */
                                 		// Allows for cin/cout to be used
 #include <iostream>
