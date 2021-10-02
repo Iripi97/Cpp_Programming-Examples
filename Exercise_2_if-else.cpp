@@ -33,7 +33,7 @@ int main(){
             		// If statement determining which test to be dropped:
         if (testOneScore > testTwoScore){
             		// Calculating the final points earned by adding remaining tests together:
-        	testScoreFinal = (testOneScore + testThreeScore);
+        	testScoreFinal = (testOneScore + testThreeScore)/2;
             	cout << "After dropping test #2, the points earned are: ";
             		// Outputting final points earned:
             	cout << testScoreFinal << endl;
@@ -41,7 +41,7 @@ int main(){
             		// What is used if the first test needs to be dropped:
         else {
             		// Calculating the final points earned by adding remaining tests together:
-        	testScoreFinal = (testTwoScore + testThreeScore);
+        	testScoreFinal = (testTwoScore + testThreeScore)/2;
             	cout << "After dropping test #1, the points earned are: ";
             		// Outputting final points earned:
             	cout << testScoreFinal << endl;
